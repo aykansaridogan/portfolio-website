@@ -8,6 +8,6 @@ I turned the client classic CV into a colorful and beautiful website
 4. education section 
 5. contact section 
 
-[**live demo**](https://abdelrhman-ahmed-kamal.github.io/CV-website/)
+[**live demo**](aykansaridogan.netlify.app)
 
 ![screen shot](CV-website.png)
