@@ -10,4 +10,4 @@ I turned the client classic CV into a colorful and beautiful website
 
 [**live demo**](https://aykansaridogan.netlify.app)
 
-![screen shot](CV-website.png)
+
